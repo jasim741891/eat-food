@@ -1,0 +1,65 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.header-oneside {
+    margin-left: 5%;
+    margin-top: 100px;
+    padding-left: 5%;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 30px;
+    width: 50%;
+
+}
+
+.header-oneside img {
+    width: 90%;
+    padding-right: 20%;
+}
+
+.top-banner {
+    background-image: url(images/shapes/Group\ 8449.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 40%;
+    background-position: right;
+}
+
+.all-paragrap {
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.btn-color {
+    background-color: rgb(218, 92, 54);
+    color: white;
+    border-radius: 35%;
+    padding: 10px;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(red 5%, orange);
+    color: white;
+    font-weight: 400;
+    padding: 10px;
+    border-radius: 100px;
+    height: 200px;
+    width: 200px;
+    margin: 9px;
+
+}
+
+.header {
+    display: flex;
+}
+
+
+
+
+.main-content {
+    color: orange;
+}
