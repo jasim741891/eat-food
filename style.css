@@ -25,7 +25,7 @@ body {
     background-repeat: no-repeat;
     background-position: left;
     background-size: 40%;
-    background-position: right;
+    background-position: right 5%;
 }
 
 .all-paragrap {
@@ -55,6 +55,8 @@ body {
 
 .header {
     display: flex;
+    margin-top: 25px;
+
 }
 
 
@@ -62,4 +64,10 @@ body {
 
 .main-content {
     color: orange;
+}
+
+.second-top {
+    background-image: url(images/shapes/Frame\ 58.jpg);
+    background-repeat: no-repeat;
+    background-position: center
 }
